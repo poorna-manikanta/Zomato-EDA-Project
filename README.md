@@ -15,3 +15,10 @@ To analyze Zomato restaurant dataset and find insights.
 - City-wise restaurant distribution
 - Rating analysis
 - Price vs Rating relationship
+## Steps Performed
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis
+- Data Visualization
+- Insight Extraction
+
